@@ -9,7 +9,7 @@ import itertools
 
 def get_maximums(numbers):
     for elem in numbers:
-        elem.max()
+        max(elem)
 
 	return 
 
