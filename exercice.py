@@ -10,7 +10,6 @@ import itertools
 def get_maximums(numbers):
     for elem in numbers:
         max(elem)
-
 	return 
 
 def join_integers(numbers):
