@@ -13,11 +13,12 @@ def get_maximums(numbers):
 	return numbers
 
 def join_integers(numbers):
-    return ([111,222,333].join(join_integers))
-	
+    
 
 def generate_prime_numbers(limit):
-	return [0]
+	
+    n
+    return [0]
 
 def combine_strings_and_numbers(strings, num_combinations, excluded_multiples):
 	return [""]
