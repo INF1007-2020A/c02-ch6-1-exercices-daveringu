@@ -13,7 +13,7 @@ def get_maximums(numbers):
 	return numbers
 
 def join_integers(numbers):
-    return [111,222,333«join_integers
+    return [111,222,333]join_integers
 	
 
 def generate_prime_numbers(limit):
