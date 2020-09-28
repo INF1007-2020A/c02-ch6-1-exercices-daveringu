@@ -17,7 +17,7 @@ def join_integers(numbers):
 
 def generate_prime_numbers(limit):
 	
-    number=[elem for elem in number if %nu]
+    number=[elem for elem in number if %number!=0]
     return [0]
 
 def combine_strings_and_numbers(strings, num_combinations, excluded_multiples):
